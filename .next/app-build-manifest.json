@@ -1,0 +1,21 @@
+{
+  "pages": {
+    "/[locale]/(landing-page)/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/[locale]/(landing-page)/page.css",
+      "static/chunks/app/[locale]/(landing-page)/page.js"
+    ],
+    "/[locale]/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/[locale]/layout.css",
+      "static/chunks/app/[locale]/layout.js"
+    ],
+    "/[locale]/(landing-page)/(course)/course/[courseId]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/[locale]/(landing-page)/(course)/course/[courseId]/page.js"
+    ]
+  }
+}

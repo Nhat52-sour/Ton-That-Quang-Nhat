@@ -1,0 +1,30 @@
+{
+  "LandingPage": {
+    "menu": {
+      "home": "Trang chủ",
+      "about": "Giới thiệu",
+      "courses": "Khóa học",
+      "instructor": "Giảng viên"
+    },
+    "homeBanner": {
+      "title": "Quang Nhật",
+      "description": "Học mọi thứ, mọi lúc, mọi nơi, phù hợp với mọi ngành nghề đang hot",
+      "start": "Bắt đầu"
+    },
+    "reviews": "đánh giá",
+    "courseCategory": "Các khóa học đang có",
+    "instructor": "Giảng viên",
+    "footer": {
+      "title": "Giáo dục không chỉ là truyền đạt kiến thức, mà còn là khai mở tiềm năng và xây dựng nhân cách cho thế hệ tương lai.Học tập là hành trình cả đời, giáo dục là người dẫn đường tận tâm giúp bạn chinh phục những đỉnh cao tri thức.",
+      "aboutUs": "Về chúng tôi",
+      "contactUs": "Liên hệ",
+      "course": "Khóa học",
+      "aiAppstore": "Ứng dụng AI",
+      "fat1000": "FAT1000",
+      "tests": "Bài kiểm tra",
+      "projectOpening": "Mở dự án",
+      "hiring": "Tuyển dụng",
+      "becomeInstructor": "Trở thành Giảng viên"
+    }
+  }
+}
